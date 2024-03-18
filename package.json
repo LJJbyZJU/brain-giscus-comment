@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "cz-git": "^1.9.0"
+  },
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-git",
+      "useEmoji": true
+    }
+  }
+}
