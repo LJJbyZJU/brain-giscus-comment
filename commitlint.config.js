@@ -64,6 +64,5 @@ module.exports = {
       defaultIssues: "",
       defaultScope: "",
       defaultSubject: ""
-      
     }
   }
